@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: e9621315d9e89d94ea7889d72c6f13ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5412448734000955623
+    second: Futuristic Cyan Gear Settings Icon_0
+  - first:
+      213: -5191230715487388166
+    second: Futuristic Cyan Gear Settings Icon_1
+  - first:
+      213: 488714916751989959
+    second: Futuristic Cyan Gear Settings Icon_2
+  - first:
+      213: 6781202694226378252
+    second: Futuristic Cyan Gear Settings Icon_3
+  - first:
+      213: 3999436830203361058
+    second: Futuristic Cyan Gear Settings Icon_4
+  - first:
+      213: -7379304184100302553
+    second: Futuristic Cyan Gear Settings Icon_5
+  - first:
+      213: -9128452615069782762
+    second: Futuristic Cyan Gear Settings Icon_6
+  - first:
+      213: -1635416029995792486
+    second: Futuristic Cyan Gear Settings Icon_7
+  - first:
+      213: -7414667092549071848
+    second: Futuristic Cyan Gear Settings Icon_8
+  - first:
+      213: 5889516926606441349
+    second: Futuristic Cyan Gear Settings Icon_9
+  - first:
+      213: 6937146729886780393
+    second: Futuristic Cyan Gear Settings Icon_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 1232
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0c32b7271ec1b40800000000000000
+      internalID: 5412448734000955623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1124
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf6482b2b05f7b0800000000000000
+      internalID: -5191230715487388166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccdf61a0a348c600800000000000000
+      internalID: 488714916751989959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_3
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1116
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef84b0cebab1e50800000000000000
+      internalID: 6781202694226378252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 5
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b2ed6b9ad08730800000000000000
+      internalID: 3999436830203361058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1032
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721d52911f1779990800000000000000
+      internalID: -7379304184100302553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61da7c116b8315180800000000000000
+      internalID: -9128452615069782762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970f1819c5dd49e0800000000000000
+      internalID: -1635416029995792486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 36
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c85dc509fc91990800000000000000
+      internalID: -7414667092549071848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 15
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf605d074cbb150800000000000000
+      internalID: 5889516926606441349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Cyan Gear Settings Icon_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb0aad3232b54060800000000000000
+      internalID: 6937146729886780393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Futuristic Cyan Gear Settings Icon_0: 5412448734000955623
+      Futuristic Cyan Gear Settings Icon_1: -5191230715487388166
+      Futuristic Cyan Gear Settings Icon_10: 6937146729886780393
+      Futuristic Cyan Gear Settings Icon_2: 488714916751989959
+      Futuristic Cyan Gear Settings Icon_3: 6781202694226378252
+      Futuristic Cyan Gear Settings Icon_4: 3999436830203361058
+      Futuristic Cyan Gear Settings Icon_5: -7379304184100302553
+      Futuristic Cyan Gear Settings Icon_6: -9128452615069782762
+      Futuristic Cyan Gear Settings Icon_7: -1635416029995792486
+      Futuristic Cyan Gear Settings Icon_8: -7414667092549071848
+      Futuristic Cyan Gear Settings Icon_9: 5889516926606441349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

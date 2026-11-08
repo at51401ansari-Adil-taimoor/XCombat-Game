@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 345cb037ed376404489183197df76276
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5490154861491919489
+    second: Neon Cyberpunk HUD Frame Panel_0
+  - first:
+      213: -4239225411035408794
+    second: Neon Cyberpunk HUD Frame Panel_1
+  - first:
+      213: -4511116026542096382
+    second: Neon Cyberpunk HUD Frame Panel_2
+  - first:
+      213: 4387777798774529985
+    second: Neon Cyberpunk HUD Frame Panel_3
+  - first:
+      213: -219588116721204310
+    second: Neon Cyberpunk HUD Frame Panel_4
+  - first:
+      213: 2213317376237666203
+    second: Neon Cyberpunk HUD Frame Panel_5
+  - first:
+      213: 991381458653951620
+    second: Neon Cyberpunk HUD Frame Panel_6
+  - first:
+      213: -8523896439801254514
+    second: Neon Cyberpunk HUD Frame Panel_7
+  - first:
+      213: 3672271083580816887
+    second: Neon Cyberpunk HUD Frame Panel_8
+  - first:
+      213: -491161417190218751
+    second: Neon Cyberpunk HUD Frame Panel_9
+  - first:
+      213: -3645041835248815182
+    second: Neon Cyberpunk HUD Frame Panel_10
+  - first:
+      213: 3374894326347372885
+    second: Neon Cyberpunk HUD Frame Panel_11
+  - first:
+      213: -2362611331225870545
+    second: Neon Cyberpunk HUD Frame Panel_12
+  - first:
+      213: 6703621144096220638
+    second: Neon Cyberpunk HUD Frame Panel_13
+  - first:
+      213: -6132722520025909290
+    second: Neon Cyberpunk HUD Frame Panel_14
+  - first:
+      213: 3487582274662791165
+    second: Neon Cyberpunk HUD Frame Panel_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 968
+        height: 1619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a1c1922c2f03c40800000000000000
+      internalID: 5490154861491919489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dc64f2fe3b25c0800000000000000
+      internalID: -4239225411035408794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 13
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000361ffdb4561c0800000000000000
+      internalID: -4511116026542096382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf1d4919a484ec30800000000000000
+      internalID: 4387777798774529985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 37
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa38fe175cdd3fcf0800000000000000
+      internalID: -219588116721204310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 45
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f78d15d6847be10800000000000000
+      internalID: 2213317376237666203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4863aff1f2812cd00800000000000000
+      internalID: 991381458653951620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 63
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ded6b795905b980800000000000000
+      internalID: -8523896439801254514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 43
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf5cf081786f230800000000000000
+      internalID: 3672271083580816887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 49
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104eff81b4b0f29f0800000000000000
+      internalID: -491161417190218751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 59
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b37e8a53c53a6dc0800000000000000
+      internalID: -3645041835248815182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 53
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599a64428806de20800000000000000
+      internalID: 3374894326347372885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 17
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f18fb0381563fd0800000000000000
+      internalID: -2362611331225870545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed527aac9eb080d50800000000000000
+      internalID: 6703621144096220638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 47
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d731df4c5134eaa0800000000000000
+      internalID: -6132722520025909290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk HUD Frame Panel_15
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7793ec991666030800000000000000
+      internalID: 3487582274662791165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1ba0c56f36429c40af3ea346868da50
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Cyberpunk HUD Frame Panel_0: 5490154861491919489
+      Neon Cyberpunk HUD Frame Panel_1: -4239225411035408794
+      Neon Cyberpunk HUD Frame Panel_10: -3645041835248815182
+      Neon Cyberpunk HUD Frame Panel_11: 3374894326347372885
+      Neon Cyberpunk HUD Frame Panel_12: -2362611331225870545
+      Neon Cyberpunk HUD Frame Panel_13: 6703621144096220638
+      Neon Cyberpunk HUD Frame Panel_14: -6132722520025909290
+      Neon Cyberpunk HUD Frame Panel_15: 3487582274662791165
+      Neon Cyberpunk HUD Frame Panel_2: -4511116026542096382
+      Neon Cyberpunk HUD Frame Panel_3: 4387777798774529985
+      Neon Cyberpunk HUD Frame Panel_4: -219588116721204310
+      Neon Cyberpunk HUD Frame Panel_5: 2213317376237666203
+      Neon Cyberpunk HUD Frame Panel_6: 991381458653951620
+      Neon Cyberpunk HUD Frame Panel_7: -8523896439801254514
+      Neon Cyberpunk HUD Frame Panel_8: 3672271083580816887
+      Neon Cyberpunk HUD Frame Panel_9: -491161417190218751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

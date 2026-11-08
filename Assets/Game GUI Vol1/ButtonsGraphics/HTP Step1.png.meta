@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: bd61d07edf8e98d47afffe6016c08326
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2453803216041466098
+    second: HTP Step1_0
+  - first:
+      213: -6700630245754945288
+    second: HTP Step1_1
+  - first:
+      213: -1296817155351675405
+    second: HTP Step1_2
+  - first:
+      213: 5104868278607770964
+    second: HTP Step1_3
+  - first:
+      213: 4583367645858055179
+    second: HTP Step1_4
+  - first:
+      213: -7005162762687581529
+    second: HTP Step1_5
+  - first:
+      213: -5283826255773891541
+    second: HTP Step1_6
+  - first:
+      213: 5027329041196231731
+    second: HTP Step1_7
+  - first:
+      213: -6827840854395325414
+    second: HTP Step1_8
+  - first:
+      213: -1190861559808858513
+    second: HTP Step1_9
+  - first:
+      213: 2081954199342777033
+    second: HTP Step1_10
+  - first:
+      213: -6847629023378136986
+    second: HTP Step1_11
+  - first:
+      213: 5930583812081453047
+    second: HTP Step1_12
+  - first:
+      213: -2387320001252467243
+    second: HTP Step1_13
+  - first:
+      213: 5726561620402232394
+    second: HTP Step1_14
+  - first:
+      213: -8401773933440176464
+    second: HTP Step1_15
+  - first:
+      213: 1096244455005334144
+    second: HTP Step1_16
+  - first:
+      213: 3843986165494455856
+    second: HTP Step1_17
+  - first:
+      213: -1334303490403438126
+    second: HTP Step1_18
+  - first:
+      213: -1071764177550650293
+    second: HTP Step1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HTP Step1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1235
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07232fc9f652fdd0800000000000000
+      internalID: -2453803216041466098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_1
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1151
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c98efa449203a0800000000000000
+      internalID: -6700630245754945288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1153
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd71a40ba7c00ee0800000000000000
+      internalID: -1296817155351675405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1044
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455739317a228d640800000000000000
+      internalID: 5104868278607770964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_4
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1028
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04436617946b9f30800000000000000
+      internalID: 4583367645858055179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_5
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1028
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a276301599a8ce90800000000000000
+      internalID: -7005162762687581529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_6
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 979
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2407b9e3041ca6b0800000000000000
+      internalID: -5283826255773891541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 939
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca1858029a4c540800000000000000
+      internalID: 5027329041196231731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_8
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 947
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14fdda1be2ae31a0800000000000000
+      internalID: -6827840854395325414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 936
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ece688b5397fe0800000000000000
+      internalID: -1190861559808858513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 875
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2857a405694ec10800000000000000
+      internalID: 2081954199342777033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_11
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 694
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66024ebfea558f0a0800000000000000
+      internalID: -6847629023378136986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_12
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 618
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f70cc53e8aad4250800000000000000
+      internalID: 5930583812081453047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_13
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 483
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd59208b198eded0800000000000000
+      internalID: -2387320001252467243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 357
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd5700475d87f40800000000000000
+      internalID: 5726561620402232394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_15
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 337
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be692e3f17e66b80800000000000000
+      internalID: -8401773933440176464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_16
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 85
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa59f0684a63f00800000000000000
+      internalID: 1096244455005334144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 45
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e10db1d05985530800000000000000
+      internalID: 3843986165494455856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_18
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 46
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d170ff7b0a9b7de0800000000000000
+      internalID: -1334303490403438126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HTP Step1_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 16
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44da12b8245021f0800000000000000
+      internalID: -1071764177550650293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HTP Step1_0: -2453803216041466098
+      HTP Step1_1: -6700630245754945288
+      HTP Step1_10: 2081954199342777033
+      HTP Step1_11: -6847629023378136986
+      HTP Step1_12: 5930583812081453047
+      HTP Step1_13: -2387320001252467243
+      HTP Step1_14: 5726561620402232394
+      HTP Step1_15: -8401773933440176464
+      HTP Step1_16: 1096244455005334144
+      HTP Step1_17: 3843986165494455856
+      HTP Step1_18: -1334303490403438126
+      HTP Step1_19: -1071764177550650293
+      HTP Step1_2: -1296817155351675405
+      HTP Step1_3: 5104868278607770964
+      HTP Step1_4: 4583367645858055179
+      HTP Step1_5: -7005162762687581529
+      HTP Step1_6: -5283826255773891541
+      HTP Step1_7: 5027329041196231731
+      HTP Step1_8: -6827840854395325414
+      HTP Step1_9: -1190861559808858513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

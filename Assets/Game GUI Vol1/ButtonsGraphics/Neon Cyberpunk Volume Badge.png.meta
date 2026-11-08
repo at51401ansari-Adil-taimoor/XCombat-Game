@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3485cc2aa2a05db489382e75e29a0230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4397834594051750728
+    second: Neon Cyberpunk Volume Badge_0
+  - first:
+      213: -2212889930343046499
+    second: Neon Cyberpunk Volume Badge_1
+  - first:
+      213: -2643045219094596869
+    second: Neon Cyberpunk Volume Badge_2
+  - first:
+      213: 6874224297568169722
+    second: Neon Cyberpunk Volume Badge_3
+  - first:
+      213: 6976147230807490314
+    second: Neon Cyberpunk Volume Badge_4
+  - first:
+      213: -3602229599186129757
+    second: Neon Cyberpunk Volume Badge_5
+  - first:
+      213: 6536182928779685087
+    second: Neon Cyberpunk Volume Badge_6
+  - first:
+      213: 2153749464725267673
+    second: Neon Cyberpunk Volume Badge_7
+  - first:
+      213: 511803415851933608
+    second: Neon Cyberpunk Volume Badge_8
+  - first:
+      213: -3167550073314568451
+    second: Neon Cyberpunk Volume Badge_9
+  - first:
+      213: -6878347607684816407
+    second: Neon Cyberpunk Volume Badge_10
+  - first:
+      213: 7707062953905659224
+    second: Neon Cyberpunk Volume Badge_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1245
+        height: 1206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b40f98ccb0c7f2c0800000000000000
+      internalID: -4397834594051750728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1205
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922dde255c3a41e0800000000000000
+      internalID: -2212889930343046499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1191
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2729e6064025bd0800000000000000
+      internalID: -2643045219094596869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1150
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee8e2d396266f50800000000000000
+      internalID: 6874224297568169722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1140
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ffa19f1f040d060800000000000000
+      internalID: 6976147230807490314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1150
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acec15d34f420ec0800000000000000
+      internalID: -3602229599186129757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca2e85ebf25ba50800000000000000
+      internalID: 6536182928779685087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d423242ab7a3ed10800000000000000
+      internalID: 2153749464725267673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af9facbe7a4a1700800000000000000
+      internalID: 511803415851933608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df692df9df99a04d0800000000000000
+      internalID: -3167550073314568451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e94a3b433b80a0800000000000000
+      internalID: -6878347607684816407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Cyberpunk Volume Badge_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 63
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9e1d3cecf4fa60800000000000000
+      internalID: 7707062953905659224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Cyberpunk Volume Badge_0: -4397834594051750728
+      Neon Cyberpunk Volume Badge_1: -2212889930343046499
+      Neon Cyberpunk Volume Badge_10: -6878347607684816407
+      Neon Cyberpunk Volume Badge_11: 7707062953905659224
+      Neon Cyberpunk Volume Badge_2: -2643045219094596869
+      Neon Cyberpunk Volume Badge_3: 6874224297568169722
+      Neon Cyberpunk Volume Badge_4: 6976147230807490314
+      Neon Cyberpunk Volume Badge_5: -3602229599186129757
+      Neon Cyberpunk Volume Badge_6: 6536182928779685087
+      Neon Cyberpunk Volume Badge_7: 2153749464725267673
+      Neon Cyberpunk Volume Badge_8: 511803415851933608
+      Neon Cyberpunk Volume Badge_9: -3167550073314568451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
